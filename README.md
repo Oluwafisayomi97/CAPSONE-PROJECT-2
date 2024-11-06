@@ -90,6 +90,7 @@ SELECT Count(*) as activesubscription from [dbo].[CUSTOMER DATA]
 where canceled =0
 
 • The pivot table below shows the summaarization of the customer sales data.
+![image](https://github.com/user-attachments/assets/9a9ef50d-de4b-4e6c-98a5-5ec49ec6e0c0)
 
 
 
