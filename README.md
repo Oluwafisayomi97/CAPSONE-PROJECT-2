@@ -92,12 +92,15 @@ where canceled =0
 ## The pivot table below shows the summaarization of the customer sales data.
 ![image](https://github.com/user-attachments/assets/9a9ef50d-de4b-4e6c-98a5-5ec49ec6e0c0)
 
+
 ## Data Visualization
 The customer dashboard report visualization
 ![image](https://github.com/user-attachments/assets/0b32f703-ee5d-4a0d-b89e-0a3d44f34624)
 
+
 The Donut chart shows the percentage average revenue by each region
 ![image](https://github.com/user-attachments/assets/84b33b9b-8df2-460d-aa72-d8ab77cd31ed)
+
 
 The line chart shows the count of region by subcsription by type
 ![image](https://github.com/user-attachments/assets/d40df1df-3f6b-45c2-b991-96078ad300e9)
