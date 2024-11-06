@@ -29,15 +29,22 @@ The data sources include: Customer ID, Customer Name,	Region,	Subscription Type,
 Exploratory data analysis invoved explorying the data to answer some of the question, needful for the data such as;
 ---
 •  What is the total number of customers from each region?
+
 •  Find the most popular subscription type by the number of customers. 
+
 •  Find customers who canceled their subscription within 6 months. 
-•  Calculate the average subscription duration for all customers. 
+
+•  Calculate the average subscription duration for all customers.
+
 •  Find customers with subscriptions longer than 12 months. 
+
 •  Calculate total revenue by subscription type. 
+
 •  Find the top 3 regions by subscription cancellations. 
+
 •  Find the total number of active and canceled subscriptions.
 
-## Data Analysis
+## Data Analysis 
 
 ```SQL
 Select * from [dbo].[CUSTOMER DATA]
@@ -82,6 +89,7 @@ where canceled =1
 SELECT Count(*) as activesubscription from [dbo].[CUSTOMER DATA]
 where canceled =0
 
+• The pivot table below shows the summaarization of the customer sales data.
 
 
 
