@@ -120,7 +120,7 @@ The Donut chart shows the percentage average revenue by each region
 ![image](https://github.com/user-attachments/assets/84b33b9b-8df2-460d-aa72-d8ab77cd31ed)
 
 
-The line chart shows the count of region by subcsription by type
+The line chart shows the count of region by the subcsription type
 ![image](https://github.com/user-attachments/assets/d40df1df-3f6b-45c2-b991-96078ad300e9)
 
 
