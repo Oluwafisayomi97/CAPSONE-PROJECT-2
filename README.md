@@ -97,9 +97,10 @@ The customer dashboard report visualization
 ![image](https://github.com/user-attachments/assets/0b32f703-ee5d-4a0d-b89e-0a3d44f34624)
 
 The Donut chart shows the percentage average revenue by each region
+![image](https://github.com/user-attachments/assets/84b33b9b-8df2-460d-aa72-d8ab77cd31ed)
 
 
-The line chart sjows the count of region by subcsription by type
+The line chart shows the count of region by subcsription by type
 
 
 
