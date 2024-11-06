@@ -7,7 +7,24 @@ This project focuses on analyzing customer data from a subscription-based servic
 
 ## The Data Sources
 ---
-The data sources include: Customer ID, Customer Name,	Region,	Subscription Type,	Subscription Start,	Subscription End,	Cancellation and	Revenue.
+The data sources include: 
+•CustomerID: Unique identifier for each customer.
+
+•CustomerName: Name of the customer
+
+•Region: Geographical area where the customer is located (e.g., North, South, East, West)
+
+•SubscriptionType: Type of subscription plan the customer is enrolled in (Basic, Premium and standard)
+
+•SubscriptionStart: Start date of the customer's subscription
+
+•SubscriptionEnd: End date of the customer's subscription
+
+•Canceled: Indicates if the subscription was canceled (TRUE or FALSE)
+
+•Revenue: Revenue generated from the customer's subscription
+
+•Subscription Duration: Duration of the subscription period
 
 ## The Data Tools Used
 ---
@@ -88,6 +105,7 @@ where canceled =1
 
 SELECT Count(*) as activesubscription from [dbo].[CUSTOMER DATA]
 where canceled =0
+
 
 ## The pivot table below shows the summaarization of the customer sales data.
 ![image](https://github.com/user-attachments/assets/9a9ef50d-de4b-4e6c-98a5-5ec49ec6e0c0)
