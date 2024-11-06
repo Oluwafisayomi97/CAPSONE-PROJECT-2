@@ -94,8 +94,12 @@ where canceled =0
 
 ## Data Visualization
 The customer dashboard report visualization
+![image](https://github.com/user-attachments/assets/0b32f703-ee5d-4a0d-b89e-0a3d44f34624)
+
+The Donut chart shows the percentage average revenue by each region
 
 
+The line chart sjows the count of region by subcsription by type
 
 
 
